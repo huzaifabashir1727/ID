@@ -1,0 +1,21 @@
+.main{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    background-color: #ddebf8;
+    border-bottom: 6px solid #d8cefe;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 210px auto;
+}
+.img{
+    width: 150px;
+}
+.right {
+    text-align: center;
+}
